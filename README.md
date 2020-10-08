@@ -1,4 +1,4 @@
-# word_clock
+# world_clock
 
 A Mini Flutter project demonstrating an idea of world clock that updates the time based on user's time zone.
 
