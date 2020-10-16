@@ -25,7 +25,6 @@ class WorldTime {
       //create date time object
       DateTime now = DateTime.parse(dateTime);
       String offsetValue = offset.split(":")[0];
-      print(offsetValue.contains('+'));
       if (offsetValue.contains('+')) {
         now = now.add(Duration(
             hours: int.parse(offset.substring(1, 3)),
