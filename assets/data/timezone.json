@@ -1,0 +1,17 @@
+
+[
+{"url": "Europe/London", "location": "London", "flag": "uk.jpg"},
+{"url": "Europe/Berlin", "location": "Athens", "flag": "greece.jpg"},
+{"url": "Africa/Cairo", "location": "Cairo", "flag": "egypt.jpg"},
+{"url": "Africa/Nairobi", "location": "Nairobi", "flag": "kenya.jpg"},
+{"url": "America/Chicago", "location": "Chicago", "flag": "usa.jpg"},
+{"url": "Asia/Seoul", "location": "Seoul", "flag": "south_korea.jpg"},
+{"url": "Asia/Jakarta", "location": "Jakarta", "flag": "indonesia.jpg"},
+{"url": "Asia/Kathmandu", "location": "Kathmandu", "flag": "nepal.jpg"},
+{"url": "America/Sao_Paulo", "location": "Brazil", "flag": "brazil.jpg"},
+{"url": "Asia/Hong_Kong", "location": "Hongkong", "flag": "china.jpg"},
+{"url": "Europe/Berlin", "location": "Germany", "flag": "germany.jpg"},
+{"url": "Asia/Kolkata", "location": "India", "flag": "india.jpg"},
+{"url": "Europe/Istanbul", "location": "Turkey", "flag": "turkey.jpg"},
+{"url": "America/New_York", "location": "New York","flag": "usa.jpg"}
+]
